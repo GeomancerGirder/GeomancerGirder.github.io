@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geomancergirder.github.io/sitemap.xml
